@@ -21,6 +21,6 @@
     "gulpfile.js"
   ],
   "dependencies": {
-    "angular": "~1.*"
+    "angular": "1.*"
   }
 }
